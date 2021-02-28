@@ -1,8 +1,8 @@
 Input list1=[12,-7,564,-14]
 while Input list1<0:
-continue:
+continue
 print(Input list1)
 Input list2=[12,14,-95,3]
 while Input list2<0:
-continue:
+continue
 print(Input list2)
